@@ -144,3 +144,7 @@ B.Tech – Computer Science Engineering (Artificial Intelligence & Machine Learn
 ## Project Result
 
 The developed Telecom Customer Churn Prediction model achieved an accuracy of **94.11%**, demonstrating strong performance in identifying customers likely to churn and supporting data-driven customer retention strategies.
+
+##Intern ID
+CITS1245
+
